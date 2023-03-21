@@ -8,6 +8,6 @@ describe("Fibonacci test suite", () => {
 	// 	expect(console.log).toHaveBeenLastCalledWith(55)
 	// })
 	it("should pass", () => {
-		expect(1).toBe(1)
+		expect(2).toBe(2)
 	})
 })
